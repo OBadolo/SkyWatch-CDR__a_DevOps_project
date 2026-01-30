@@ -1,0 +1,10 @@
+SkyWatch-CPP/
+├── include/
+│   ├── AirspaceManager.hpp   <- Data Management - Gestion des données
+│   ├── ConflictEngine.hpp    <- Detection algorithms - Algorithmes de détection
+│   └── Localization.hpp      <- English/French Management - Gestion Anglais/Français
+├── src/
+│   ├── AirspaceManager.cpp
+│   ├── ConflictEngine.cpp
+│   └── main.cpp              <- Simulation
+└── README.md                 <- Bilingual document - Le document bilingue

@@ -1,0 +1,3 @@
+C:/projects/SkyWatch-CDR/out/build/x64-Debug/CMakeFiles/SkyWatch-CPP.dir
+C:/projects/SkyWatch-CDR/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/projects/SkyWatch-CDR/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
